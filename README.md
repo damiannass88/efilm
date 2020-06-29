@@ -1,4 +1,3 @@
 ## About eFilm Laravel
-This application allows users to add, delete and edit products in the back-end databases while visitors can check out the registered products. It is a basic web application developed to demonstrate a CRUD system as well as user authentication. eFilm Laravel is an application written in PHP using the Laravel framework.
-
+Film Database is an Application built on the basis of web technologies: HTML, CSS, Bootstrap, PHP Laravel, JS, Jquery and MySql. The functions of this Application are: adding records, and then the ability to edit, delete and view them, and search data by phrase. The application has access to Rest Api Json, and Frond-end.
 
